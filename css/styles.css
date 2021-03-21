@@ -1,0 +1,9 @@
+.container{
+    max-width: 1170px;
+    margin: auto;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    height: 10em;
+  align-items: center;
+  justify-content: center
+}
